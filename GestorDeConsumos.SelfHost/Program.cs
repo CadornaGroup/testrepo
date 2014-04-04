@@ -8,6 +8,9 @@ using System.Web.Http.SelfHost;
 
 namespace GestorDeConsumos.SelfHost
 {
+/* My test class
+second line
+*/
     public static class Program
     {
         static void Main()
